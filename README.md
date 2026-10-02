@@ -31,7 +31,7 @@ public class Developer {
         "Backend",
         "Microservices",
         "Distributed Systems",
-        "APIs REST",
+        "REST APIs",
         "Software Architecture"
     };
 
@@ -49,23 +49,9 @@ public class Developer {
 
 <div align="center">
 
-### ☕ Backend
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,docker,postgres,mysql,git,github" />
 
-<img src="https://skillicons.dev/icons?i=java,spring" />
-
-### 📡 Mensageria & Infraestrutura
-
-<img src="https://skillicons.dev/icons?i=kafka,docker" />
-
-### 🗄️ Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-### 🔧 Versionamento
-
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-### 🔐 Autenticação
+<br><br>
 
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
@@ -95,15 +81,15 @@ public class Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickz9x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickz9x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickz9x&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickz9x&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 Streak
 
 <div align="center">
 
@@ -113,21 +99,25 @@ public class Developer {
 
 ---
 
-# 📈 Gráfico de Atividade
+# 📈 Resumo de Atividade
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nickz9x&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickz9x&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🐍 Minhas Contribuições
+# 🐍 Contribuições
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nickz9x/nickz9x/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nickz9x/nickz9x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nickz9x/nickz9x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nickz9x/nickz9x/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
