@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Nicholas
 
-### Backend Developer | Java & Spring Boot ☕
+### Backend Developer | Java & Spring Boot 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20B4FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;Microservices+%7C+Kafka;Docker+%7C+PostgreSQL;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
 
