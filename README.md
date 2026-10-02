@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou nickz9x
+# 👋 Olá, eu sou Nicholas
 
 ### Backend Developer | Java & Spring Boot ☕
 
